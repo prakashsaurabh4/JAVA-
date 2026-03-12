@@ -1,8 +1,5 @@
-for(int x[]:B)
-        // {
-        //     for(int y:x)
-        //     {
-        //         System.out.print(y+" ");
-        //     }
-        //     System.out.println("");
-        // }
+Sub s=new Sub();
+        s.display();
+
+        Super su=new Super();
+        su.display();
