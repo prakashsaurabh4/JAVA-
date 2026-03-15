@@ -18,11 +18,11 @@ public class InheritanceOverride115
 {
     public static void main(String[] args) 
     {
-        Sub s=new Sub();
-        s.display();
+        // Sub s=new Sub();
+        // s.display();
 
-        Super su=new Super();
-        su.display();
+        // Super su=new Super();
+        // su.display();
 
         Super m=new Sub();
         m.display();

@@ -1,5 +1,2 @@
-Sub s=new Sub();
-        s.display();
-
-        Super su=new Super();
-        su.display();
+t1.x=30;
+        t1.y=50; 
