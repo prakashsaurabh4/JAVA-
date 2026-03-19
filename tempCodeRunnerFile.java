@@ -1,2 +1,5 @@
-t1.x=30;
-        t1.y=50; 
+public MyThread1(MyData d)
+    // {
+    //     this.d=d;
+    // }
+    
